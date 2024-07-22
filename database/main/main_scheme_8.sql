@@ -1,0 +1,1 @@
+{"bakım":{"value":"acık","type":"string","key":"bakım"}}
